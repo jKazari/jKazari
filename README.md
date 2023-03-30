@@ -5,3 +5,5 @@
   - I love cats
   - Favourite anime is [Evangelion](https://anilist.co/anime/30/Neon-Genesis-Evangelion/)
   - I like  ✨ a e s t h e t i c s ✨
+
+<img align="right" width=20% src="/lain.png">
